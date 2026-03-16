@@ -5,7 +5,7 @@ Splitting bills without splitting friendships
 SplitPay is a smart expense-splitting mobile application that simplifies how groups manage shared expenses. Instead of manually calculating who owes what, SplitPay automatically extracts items from receipts, assigns them to users, and calculates fair splits.
 
 The project combines OCR, LLM-powered parsing, and an intuitive mobile interface to make group payments seamless and transparent.  ￼
-
+Figma file : https://www.figma.com/design/iNNpCvBB7tHWfahTHoeqmm/Untitled?node-id=0-1&t=eAgYJP0OCdGhWzNw-1
 ⸻
 
 Problem
